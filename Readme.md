@@ -53,4 +53,3 @@ To create a GitHub README file, you can use this template:
 ## Section 2
 
 [Description of section 2]
-# This
